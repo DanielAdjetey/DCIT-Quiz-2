@@ -1,0 +1,14 @@
+// IntelliJ API Decompiler stub source generated from a class file
+  // Implementation of methods is not available
+
+public class GradeManager {
+    public GradeManager() { /* compiled code */ }
+
+    public static void executeGradeReport(double v) { /* compiled code */ }
+
+    public static boolean validateScore(double v) { /* compiled code */ }
+
+    public static char calculateLetterGrade(double v) { /* compiled code */ }
+
+    public static void displayPerformance(char c) { /* compiled code */ }
+}
